@@ -1,2 +1,2 @@
 # haiku
-you read that? damn
+Random repository (or repo) with some text
